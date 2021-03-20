@@ -38,3 +38,17 @@ added to the button in the index html file as well.*/
  .image-outline{
    border: 1px solid gray;
  }
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center-style-tile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
